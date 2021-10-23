@@ -2,11 +2,11 @@
 # PyBer Analysis
 
 ## Project Overview
-- This analysis project provides a visualizatoin of trends in PyBer Company's ride-sharing data.The areas of focus for this project include the following:
+- There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types.This analysis project provides a visualizatoin of trends in PyBer Company's ride-sharing data.The areas of focus for this project include the following:
 
-    1.Summary table by city type (Urban, Suburban, Rural)
-    
-    2.Summary table and multiple-line chart of total fares for each city type
+1) Summary table by city type (Urban, Suburban, Rural)
+
+2) Summary table and multiple-line chart of total fares for each city type
 
 ##  Results
 
