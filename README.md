@@ -27,8 +27,8 @@
 ## Recommendations for PyBer
   
   - Possible recommendations for improving disparities for Rural cities:
-    - Offering more incentivies to Rural drivers and rural riders 
+    - Offering more incentivies to Rural drivers and riders 
     - More marketing towards Rural cities
-    - Providing charity towards rural cities, which would improve quality of life, and in return, increase their use of PyBer services.
+    - Providing charity towards Rural cities, which would improve quality of life, and in return, increase their use of PyBer services.
 
 
